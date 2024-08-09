@@ -1,0 +1,74 @@
+<!-- index.html -->
+<!doctype html>
+<html>
+<head>
+    <title>Edit course</title>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <!-- load bootstrap via CDN -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
+    "></script> <!-- load jquery via CDN -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
+    <script src="/js/add_course.js">
+    </script> <!-- load our javascript file -->
+</head>
+
+<body>
+    <div class="col-sm-6 col-sm-offset-3">
+
+        <h1>add course</h1>
+
+        <!-- OUR FORM -->
+        <form id="add-course" name="add-course" method="POST">
+
+            <!-- course-id -->
+            <div id="start-date-group" class="form-group">
+                <label for="course_id">course_id</label>
+                <input type="text" class="form-control" name="course_id" id="course_id" placeholder="write id here" required>
+                <!-- errors will go here -->
+            </div>
+
+           <!-- courseNAME -->
+            <div id="name-group" class="form-group">
+                <label for="courseName">Name</label>
+                <input type="text" class="form-control" name="courseName" id="courseName" placeholder="write name here" required>
+                <!-- errors will go here -->
+            </div>
+
+            <!-- lecturername -->
+            <div id="lecturer-group" class="form-group">
+                <label for="lecturerName">lecturerName</label>
+                <input type="text" class="form-control" name="lecturerName" id="lecturerName" placeholder="write lecturer name here" required>
+                <!-- errors will go here -->
+            </div>
+
+            <!-- prerequisite_course-->
+           
+               <div id="prerequisite-group" class="form-group">
+               <label for="prerequisite_course">prerequisite_course</label>
+               <input type="text" class="form-control" name="prerequisite_course" id="prerequisite_course" placeholder="prerequisite_course" required>
+               <!-- errors will go here  -->
+                </div>
+
+            <!-- start_date -->
+            <div id="end-date-group" class="form-group">
+                <label for="start_date">start_date</label>
+                <input type="date" class="form-control" name="start_date" id="start_date" placeholder="write start_date here" required>
+                <!-- errors will go here -->
+            </div>
+
+                <!-- end_date -->
+            <div id="end-date-group" class="form-group">
+                <label for="end_date">end_date</label>
+                <input type="date" class="form-control" name="end_date" id="end_date" placeholder="write end_date here" required>
+                <!-- errors will go here -->
+            </div>
+
+            
+            <button type="submit" class="btn btn-success">Submit <span class="fa fa-arrow-right"></span></button>
+
+        </form>
+
+    </div>
+</body>
+
+</html>

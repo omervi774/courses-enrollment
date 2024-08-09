@@ -1,0 +1,45 @@
+
+body {
+    font-family: sans-serif;
+}
+
+.courses {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.course {
+    width: 25%;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.add-course {
+    text-align: center;
+    width: 25%;
+    height: 40px;
+    margin-left: 35%;
+}
+.add-student{
+    text-align: center;
+    width: 25%;
+    height: 40px;
+    margin-left: 35%;
+}
+
+.divs{
+    margin-bottom: 10;
+
+}
+div{
+    margin-bottom: 40px;
+    flex-direction: row;
+}
+.delete{color: rgb(255, 24, 24);}
+
+.visible{
+    visibility:hidden;
+}

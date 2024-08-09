@@ -1,0 +1,351 @@
+{
+  "337": {
+    "id": 337,
+    "name": "newName",
+    "lecturer": "sadsa",
+    "start_date": "11/1/98",
+    "end_date": "11/1/99",
+    "prerequisite_course": [
+      "waewq",
+      "432432324"
+    ],
+    "students": {
+      "111": {
+        "id": "111",
+        "firstname": "sagi",
+        "surname": "yaakov",
+        "picture": "https://www.w3schools.com/images/lamp.jpg",
+        "grade": "99"
+      },
+      "333": {
+        "id": "333",
+        "firstname": "yuval",
+        "surname": "shweki",
+        "picture": "https://d3m9l0v76dty0.cloudfront.net/system/photos/1862563/original/8b6ae2b9b31f1f484e47d7ad7d689696.jpg",
+        "grade": "4"
+      },
+      "123465661213156243": {
+        "id": "123465661213156243",
+        "firstname": "omer",
+        "surname": "Vain",
+        "picture": "https://images.maariv.co.il/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_533,w_758/570880",
+        "grade": "99"
+      }
+    }
+  },
+  "338": {
+    "id": "338",
+    "name": "C++",
+    "lecturer": "r",
+    "start_date": "0006-06-25",
+    "end_date": "0006-06-03",
+    "prerequisite_course": [
+      "sdar3432"
+    ],
+    "students": {
+      "111": {
+        "id": "111",
+        "firstname": "sagi",
+        "surname": "yaakov",
+        "picture": "https://d3m9l0v76dty0.cloudfront.net/system/photos/1862563/original/8b6ae2b9b31f1f484e47d7ad7d689696.jpg",
+        "grade": "100"
+      },
+      "123": {
+        "id": "123",
+        "firstname": "omer",
+        "surname": "Vain",
+        "picture": "https://d3m9l0v76dty0.cloudfront.net/system/photos/1862563/original/8b6ae2b9b31f1f484e47d7ad7d689696.jpg",
+        "grade": "100"
+      }
+    }
+  },
+  "40038": {
+    "id": "40038",
+    "name": "fgfd",
+    "lecturer": "gfgfg",
+    "start_date": "0019-05-04",
+    "end_date": "0088-05-15",
+    "prerequisite_course": [
+      "dsadsasdasadsa"
+    ],
+    "students": {
+      "111": {
+        "id": "111",
+        "firstname": "sagi",
+        "surname": "yaakov",
+        "picture": "https://d3m9l0v76dty0.cloudfront.net/system/photos/1862563/original/8b6ae2b9b31f1f484e47d7ad7d689696.jpg",
+        "grade": "100"
+      }
+    }
+  },
+  "334447": {
+    "id": "334447",
+    "name": "asd",
+    "lecturer": "asd",
+    "start_date": "2023-05-11",
+    "end_date": "2023-05-30",
+    "prerequisite_course": [
+      "aqwawdsa"
+    ],
+    "students": {}
+  },
+  "123333332": {
+    "id": "123333332",
+    "name": "fgfd",
+    "lecturer": "asddsadassdasda",
+    "start_date": "0043-05-23",
+    "end_date": "0006-05-03",
+    "prerequisite_course": [
+      "dsadsasdasadsa"
+    ],
+    "students": {}
+  },
+  "666677891": {
+    "id": "666677891",
+    "name": "sdasadsadsda",
+    "lecturer": "asddsadassdasda",
+    "start_date": "0010-09-08",
+    "end_date": "0015-10-09",
+    "prerequisite_course": [
+      "dsadsasdasadsa"
+    ],
+    "students": {}
+  },
+  "777777777": {
+    "id": "777777777",
+    "name": "gfhf",
+    "lecturer": "fghgh",
+    "start_date": "0008-07-07",
+    "end_date": "0009-07-07",
+    "prerequisite_course": [
+      "g"
+    ],
+    "students": {}
+  },
+  "course_ID": {
+    "id?": "course_ID",
+    "name": "course_name",
+    "logo_picture": "url",
+    "lecturer": "lecturer name",
+    "start_date": "01-10-2022",
+    "end_date": "01-10-2023",
+    "prerequisite_course": [
+      "course_ID11",
+      "course_ID222"
+    ],
+    "students": {
+      "student_id_1": {
+        "id?": "student_id_1",
+        "firstname": "firstname",
+        "surname": "surname",
+        "picture": "url",
+        "grade": "grade"
+      },
+      "student_id_2": {
+        "id?": "student_id_2",
+        "firstname": "firstname",
+        "surname": "surname",
+        "picture": "url",
+        "grade": "grade"
+      }
+    }
+  },
+  "dassda": {
+    "id": "dassda",
+    "name": "sdasadsadsda",
+    "lecturer": "sdffsd",
+    "start_date": "0006-04-04",
+    "end_date": "0007-04-04",
+    "prerequisite_course": [
+      "waewq"
+    ],
+    "students": {}
+  },
+  "8888888888888": {
+    "id": "8888888888888",
+    "name": "sdasadsadsda",
+    "lecturer": "gfgfg",
+    "start_date": "0007-04-04",
+    "end_date": "0008-04-04",
+    "prerequisite_course": [
+      "omerrrrr",
+      "jave"
+    ],
+    "students": {}
+  },
+  "33333333333333333444444": {
+    "id": "33333333333333333444444",
+    "name": "newName",
+    "lecturer": "rewq",
+    "start_date": "0003-02-04",
+    "end_date": "0006-04-24",
+    "prerequisite_course": [
+      "omerrrrr",
+      "jave"
+    ],
+    "students": {}
+  },
+  "omerzain": {
+    "id": "omerzain",
+    "name": "fgfd",
+    "lecturer": "gfgfg",
+    "start_date": "0007-05-05",
+    "end_date": "0008-05-05",
+    "prerequisite_course": [
+      "dsadsasdasadsa"
+    ],
+    "students": {}
+  },
+  "54fddf": {
+    "id": "54fddf",
+    "name": "sdasad",
+    "lecturer": "fdssfd",
+    "start_date": "0007-05-04",
+    "end_date": "0008-05-04",
+    "prerequisite_course": [
+      "dsadsasdasadsa"
+    ],
+    "students": {}
+  },
+  "12345676543": {
+    "id": "12345676543",
+    "name": "sdasadsadsda",
+    "lecturer": "gfgfg",
+    "start_date": "0012-07-07",
+    "end_date": "0078-05-04",
+    "prerequisite_course": [
+      "dsadsasdasadsa"
+    ],
+    "students": {}
+  },
+  "1234444543267": {
+    "id": "1234444543267",
+    "name": "fgfd",
+    "lecturer": "wrerwe",
+    "start_date": "0056-05-05",
+    "end_date": "0057-04-04",
+    "prerequisite_course": [
+      "omerrrrr",
+      "jave"
+    ],
+    "students": {}
+  },
+  "omer123": {
+    "id": "omer123",
+    "name": "omer1234",
+    "lecturer": "sdffsd",
+    "start_date": "0078-04-05",
+    "end_date": "0079-06-05",
+    "prerequisite_course": [
+      "waewq"
+    ],
+    "students": {}
+  },
+  "dassda1254889": {
+    "id": "dassda1254889",
+    "name": "ewe",
+    "lecturer": "gfgfg",
+    "start_date": "0008-05-25",
+    "end_date": "0010-09-07",
+    "prerequisite_course": [
+      "dsadsasdasadsa"
+    ],
+    "students": {}
+  },
+  "6455687i": {
+    "id": "6455687i",
+    "name": "hghg",
+    "lecturer": "etr",
+    "start_date": "0003-04-05",
+    "end_date": "0004-05-04",
+    "prerequisite_course": [
+      "dsadsasdasadsa"
+    ],
+    "students": {}
+  },
+  "sadwqeeeeeeee23132": {
+    "id": "sadwqeeeeeeee23132",
+    "name": "32123231",
+    "lecturer": "231231231",
+    "start_date": "0003-04-23",
+    "end_date": "0032-05-02",
+    "prerequisite_course": [
+      "223132123"
+    ],
+    "students": {}
+  },
+  "21333333333333335676": {
+    "id": "21333333333333335676",
+    "name": "sdasadsadsda",
+    "lecturer": "asddsa",
+    "start_date": "0006-03-04",
+    "end_date": "0008-06-06",
+    "prerequisite_course": [
+      "fddfgf"
+    ],
+    "students": {}
+  },
+  "324222222222221111": {
+    "id": "324222222222221111",
+    "name": "sdasadsadsda",
+    "lecturer": "asddsadassdasda",
+    "start_date": "0005-06-04",
+    "end_date": "0046-03-04",
+    "prerequisite_course": [
+      "waewq"
+    ],
+    "students": {}
+  },
+  "sadwqeeeeeeee1233333333333333": {
+    "id": "sadwqeeeeeeee1233333333333333",
+    "name": "423",
+    "lecturer": "asddsadassdasda",
+    "start_date": "0032-04-04",
+    "end_date": "0004-03-21",
+    "prerequisite_course": [
+      "dsadsasdasadsa"
+    ],
+    "students": {}
+  },
+  "3e435": {
+    "id": "3e435",
+    "name": "issss",
+    "lecturer": "213213",
+    "start_date": "3242-04-05",
+    "end_date": "0003-07-05",
+    "prerequisite_course": [
+      "ewrwe"
+    ],
+    "students": {
+      "312": {
+        "id": "312",
+        "firstname": "234324",
+        "surname": "sasasa",
+        "picture": "gjfnjfdkbkjsfd",
+        "grade": "100"
+      }
+    }
+  },
+  "123ewasE41": {
+    "id": "123ewasE41",
+    "name": "C",
+    "lecturer": "R",
+    "start_date": "2023-05-02",
+    "end_date": "2023-05-16",
+    "prerequisite_course": [
+      "W"
+    ],
+    "students": {}
+  },
+  "@C": {
+    "id": "@C",
+    "name": "asd",
+    "lecturer": "aweqwra",
+    "start_date": "2023-05-04",
+    "end_date": "2023-05-26",
+    "prerequisite_course": [
+      "aqwawdsa"
+    ],
+    "students": {}
+  }
+}

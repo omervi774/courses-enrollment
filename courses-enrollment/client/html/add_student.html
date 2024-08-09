@@ -1,0 +1,75 @@
+<!-- index.html -->
+<!doctype html>
+<html>
+<head>
+    <title>Edit course</title>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <!-- load bootstrap via CDN -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
+    "></script> <!-- load jquery via CDN -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
+    <script src="/js/add_student.js">
+    </script> <!-- load our javascript file -->
+</head>
+
+<body>
+    <div class="col-sm-6 col-sm-offset-3">
+
+        <h1>add student</h1>
+
+        <!-- OUR FORM -->
+        <form id="add-student" name="add-student" method="POST">
+
+            <!-- studen-id -->
+            <div id="start-date-group" class="form-group">
+                <label for="student_id">student_id</label>
+                <input type="text" class="form-control" name="student_id" id="student_id" placeholder="write id here" required>
+                <!-- errors will go here -->
+            </div>
+
+           <!-- studentNAME -->
+            <div id="name-group" class="form-group">
+                <label for="studentName">Name</label>
+                <input type="text" class="form-control" name="studentName" id="studentName" placeholder="write name here" required>
+                <!-- errors will go here -->
+            </div>
+
+            <!-- surname -->
+            <div id="lecturer-group" class="form-group">
+                <label for="surname">surname</label>
+                <input type="text" class="form-control" name="surname" id="surname" placeholder="write surname name here" required>
+                <!-- errors will go here -->
+            </div>
+            
+            <div id="end-date-group" class="form-group">
+                <label for="url">url</label>
+                <input type="text" class="form-control" name="url" id="url" placeholder="write url here" required>
+                <!-- errors will go here -->
+            </div>
+
+            <!-- end_date -->
+            <!-- <div id="end-date-group" class="form-group">
+                <label for="grade">grade</label>
+                <input type="text" class="form-control" name="grade" id="grade" placeholder="write end_date here" required>
+            </div> -->
+            <!-- errors will go here -->
+
+             <!-- prerequisite_course-->
+            <!-- 
+                <div id="prerequisite-group" class="form-group">
+                <label for="prerequisite_course">prerequisite_course</label>
+                <input type="text" class="form-control" name="prerequisite_course" id="prerequisite_course" placeholder="prerequisite_course">
+                errors will go here 
+                 </div>
+             -->
+
+
+
+            <button type="submit" class="btn btn-success">Submit <span class="fa fa-arrow-right"></span></button>
+
+        </form>
+
+    </div>
+</body>
+
+</html>
